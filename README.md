@@ -5,12 +5,12 @@
 ### email: chenning_symmetry[AT]nankai[DOT]edu[DOT]cn
 
 # **教育经历**
-### University of Science and Technology of China, 2002-2006, Bachelor
+### 中国科学技术大学，近代物理系, 2002-2006, 学士
 ### Stony Brook University, 2006-2011, PhD
 
 # **研究兴趣**
 
-### Grand Unified Theories
+### Grand Unified Theories, SU(8)
 ### Flavor physics
 ### Higgs physics
 ### phase transitions and gravitational waves
